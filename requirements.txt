@@ -1,0 +1,8 @@
+pandas
+pymysql
+paramiko
+datetime
+dropbox
+sshtunnel
+py2exe
+pyinstaller
